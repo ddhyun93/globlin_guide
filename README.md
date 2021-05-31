@@ -236,7 +236,7 @@
 
 ## contact
 
-- 개발팀에 문의 (kunwoo242@neicon.net)
+- 개발팀에 문의 (FE: kunwoo242@neicon.net) (BE: ddhyun93@neicon.net)
 
 ## Use tech
 
